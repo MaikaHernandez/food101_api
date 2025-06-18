@@ -4,10 +4,11 @@ from PIL import Image
 import torch
 import json
 import io
+import os
 import requests
 
 # Configura tu API KEY de Spoonacular aquí:
-SPOONACULAR_KEY = "751ea2230a71467f8ecb1f61cbc76380"
+SPOONACULAR_KEY = os.environ.get("SPOONACULAR_KEY")
 
 # Cargar modelo y processor de Hugging Face
 processor = AutoImageProcessor.from_pretrained("paolinox/mobilenet-finetuned-food101")
