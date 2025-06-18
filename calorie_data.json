@@ -1,0 +1,58 @@
+{
+  "pizza_margherita": {
+    "calories": 266,
+    "unit": "per slice"
+  },
+  "spaghetti_bolognese": {
+    "calories": 350,
+    "unit": "per cup"
+  },
+  "hamburger": {
+    "calories": 295,
+    "unit": "per 100g"
+  },
+  "sushi": {
+    "calories": 200,
+    "unit": "per 6 pieces"
+  },
+  "taco": {
+    "calories": 156,
+    "unit": "per taco"
+  },
+  "caesar_salad": {
+    "calories": 180,
+    "unit": "per cup"
+  },
+  "fried_rice": {
+    "calories": 238,
+    "unit": "per cup"
+  },
+  "pad_thai": {
+    "calories": 357,
+    "unit": "per cup"
+  },
+  "chicken_curry": {
+    "calories": 293,
+    "unit": "per cup"
+  },
+  "apple_pie": {
+    "calories": 296,
+    "unit": "per slice"
+  },
+  "prime_rib": {
+    "calories": 410,
+    "unit": "per 100g"
+  },
+  "bruschetta": {
+    "calories": 347.0,
+    "unit": "calories"
+  },
+  "ramen": {
+    "calories": 358.0,
+    "unit": "calories"
+  },
+  "beignets": {
+    "calories": 266.0,
+    "unit": "calories"
+  }
+}
